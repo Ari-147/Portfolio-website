@@ -149,7 +149,7 @@ nav{
 }
 
 .profile-img{
-    height: 500px;
+    height: 300px;
     border: 3px;
     border-style: solid;
     border-color: var(--accent);
@@ -315,4 +315,5 @@ footer{
         font-size: 40px;
         padding: 30px;
     }
+
 }
